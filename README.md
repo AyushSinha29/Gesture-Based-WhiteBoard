@@ -44,3 +44,7 @@ https://google.github.io/mediapipe/solutions/hands.html
 
 
 
+# About the uploaded codes
+
+1. int01.py - This script will open two separate windows, one for tracking the hand gestures and one for the white board.
+2. int02.py - This script will open one window,  for tracking the hand gestures and same for the white board.
