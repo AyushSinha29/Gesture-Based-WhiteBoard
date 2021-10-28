@@ -16,12 +16,12 @@ MediaPipeHands is a fidelity hand and finger tracking solution. Using Machine Le
 
 
 # Project Prerequisites:
-/*
+
 1. Python –  3.8.8 
 2. OpenCV – 4.4
 3. Numpy –  1.20.1
 4. MediaPipe - 0.8.8.1
-*/
+
 
 
 # Steps to develop air white board project using OpenCV and MediaPipe:
