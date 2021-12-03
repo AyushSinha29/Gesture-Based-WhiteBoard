@@ -24,7 +24,7 @@ MediaPipeHands is a fidelity hand and finger tracking solution. Using Machine Le
 
 
 
-# Steps to develop air white board project using OpenCV and MediaPipe:
+# Steps to develop virtual white board project using OpenCV and MediaPipe:
 
 Import necessary packages.
 Read frames from a webcam
