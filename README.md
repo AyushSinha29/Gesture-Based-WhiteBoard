@@ -1,6 +1,6 @@
 # Gesture-Based-WhiteBoard
 
-Link for documentation : https://docs.google.com/document/d/1yWTFom6TQ0uTOndA1qIfjxuR_kluJBtdvQqelkGoJr8/edit?usp=sharing
+Link for [documentation](https://docs.google.com/document/d/1yWTFom6TQ0uTOndA1qIfjxuR_kluJBtdvQqelkGoJr8/edit?usp=sharing)
 
 # Overview
 
