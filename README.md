@@ -26,14 +26,14 @@ MediaPipeHands is a fidelity hand and finger tracking solution. Using Machine Le
 
 # Steps to develop virtual white board project using OpenCV and MediaPipe:
 
-<\br>Import necessary packages.
-<\br>Read frames from a webcam
-<\br>Create the white board window
-<\br>Detect the blue color
-<\br>Draw on the white board
-<\br>Change colors using hand gestures
-<\br>Clear all the contents using virtual clear button
-<\br>Press ‘x’ to quit the program
+<br/>Import necessary packages.
+<br/>Read frames from a webcam
+<br/>Create the white board window
+<br/>Detect the blue color
+<br/>Draw on the white board
+<br/>Change colors using hand gestures
+<br/>Clear all the contents using virtual clear button
+<br/>Press ‘x’ to quit the program
 
 
 # References
